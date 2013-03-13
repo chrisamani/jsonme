@@ -1,22 +1,10 @@
 {
-	"name" : "Homer Jay Simpson",
-	"contact" : "chunkylover53@aol.com",
-	"title" : "Safety Inspector",
-	"objective" : "To be happy.",
+	"name" : "Chris Amani",
+	"contact" : "chrisamani@gmail.com",
+	"title" : "Finance Director",
+
 	"aboutme" : "I love beer, doughnuts, and all things fried.",
-	"social" : [
-		{
-			"link" : "http://www.linkedin.com/in/homerjsimpson",
-			"name" : "LinkedIn"
-		},
-		{
-			"link" : "https://twitter.com/HomerJSimpson",
-			"name" : "twitter"
-		},
-		{
-			"link" : "https://github.com/bittersweetryan/jsonmue",
-			"name" : "this.source"
-		}
+
 	],
 	"skills" : [
 		"Eating",
